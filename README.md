@@ -1,12 +1,9 @@
-# JSL04 Project Brief: Dynamic Task Display & Modal View
+# Dynamic Task Display & Modal View
 
 ## Overview
 
-In this project, you will dynamically display tasks from the **given initial data** on the DOM using JavaScript. Tasks should be placed into the correct **Kanban board columns** based on their status, and clicking a task should open a **modal** where users can view and modify task details. The project emphasizes **DOM manipulation, event handling, modular JavaScript structure, and responsive UI implementation.**
+This project dynamically displays tasks from the **given initial data** on the DOM using JavaScript. Tasks should be placed into the correct **Kanban board columns** based on their status, and clicking a task should open a **modal** where users can view and modify task details. The project emphasizes **DOM manipulation, event handling, modular JavaScript structure, and responsive UI implementation.**
 
-## Before You Begin
-
-**Check the project user stories in your student dashboard and the updated Figma Design** before you start building.
 
 ## Figma Design Link
 
